@@ -95,7 +95,7 @@ GitHub account
 ### Step 1: Initialize Git
 
 Go to your project folder and run:
-cd /Users/shivamgoyal/Desktop/Resume
+cd /Users/Avanishyadav/Desktop/Resume
 git init
 
 ### Step 2: Create .gitignore (Optional)
